@@ -1,6 +1,6 @@
 FROM ubuntu:16.04 
 
-LABEL Maintainer="detectidenterprise@cyxtera.com" \
+LABEL Maintainer="andresnator@gmail.com" \
     Name=ubuntu-1604-jdk180_171 \
     Version=1.0.0 
 
