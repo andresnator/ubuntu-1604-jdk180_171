@@ -13,4 +13,4 @@ ENV JAVA_HOME="$JAVA_HOME_ARG" \
 ADD lib/jdk-8u171-linux-x64.tar.gz /opt/jdk/
 
 ## Install ##
-RUN apt-get update -qq  
+#RUN apt-get update -qq  
